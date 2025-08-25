@@ -62,9 +62,11 @@ IMAGEKIT_URL_ENDPOINT = your<IMAGEKIT_URL_ENDPOINT>
 GEMINI_API_KEY = your<GEMINI_API_KEY>
 ```
 ### 📂 Project Structure
+```
 quickblog/
 │
 ├── client/         # React frontend
 ├── server/         # Express backend
 ├── .gitignore
 ├── README.md
+```
