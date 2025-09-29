@@ -23,7 +23,9 @@ It allows an **admin user** to log in and manage blog posts.
 ---
 
 ## 🔑 Admin Login
-Only the admin can log in to the dashboard.  
+Only the admin can log in to the dashboard.Use following details to login: 
+Email id: admin@ex.com
+Password: adminpassword
 
 
 ## 📦 Installation & Setup
